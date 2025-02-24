@@ -81,7 +81,7 @@ mejorando la experiencia del usuario y optimizando el rendimiento del sistema.
 
 Agregar un nuevo libro
 
-  ![Proyecto]()
+  ![Proyecto](https://github.com/JCPB2000/proyecto_final_paguay_torres_yampuezan/blob/main/Image%202025-02-23%20at%209.33.59%20PM.jpeg)
 ```
 document.getElementById("formLibro").addEventListener("submit", function(event) {
     event.preventDefault();
