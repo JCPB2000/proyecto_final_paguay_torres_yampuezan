@@ -1,0 +1,8 @@
+# Habilita el módulo de reescritura
+RewriteEngine On
+RewriteBase /proyecto_final_paguay_torres_yampuezan/public/
+
+# Evita bucles de redirección
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]

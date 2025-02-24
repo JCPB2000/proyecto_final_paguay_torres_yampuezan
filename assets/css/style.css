@@ -1,0 +1,74 @@
+/* Fondo con degradado suave */
+body {
+    background: linear-gradient(to right, #74ebd5, #acb6e5); /* Degradado azul/turquesa */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Contenedor principal */
+.container {
+    background: rgba(255, 255, 255, 0.9); /* Fondo blanco con transparencia */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    margin-top: 40px;
+}
+
+/* Encabezado principal */
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: #222;
+}
+
+/* Sección de resumen */
+.bg-light {
+    background: rgba(255, 255, 255, 0.95) !important;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Botones estilizados */
+.btn {
+    font-size: 1.2rem;
+    padding: 12px 25px;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-primary {
+    background: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background: #0056b3;
+}
+
+.btn-secondary {
+    background: #6c757d;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background: #545b62;
+}
+
+/* Diseño responsive */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    .container {
+        padding: 15px;
+    }
+
+    .btn {
+        font-size: 1rem;
+        padding: 10px 20px;
+    }
+}
