@@ -126,7 +126,7 @@ Gestionar Libros
 
 * Visualizar información detallada de cada libro registrado.
 
-![Proyecto](https://github.com/JCPB2000/proyecto_final_paguay_torres_yampuezan/blob/main/Image%202025-02-23%20at%209.32.23%20PM.jpeg)
+![Proyecto](https://github.com/JCPB2000/proyecto_final_paguay_torres_yampuezan/blob/main/Image%202025-02-23%20at%209.32.54%20PM.jpeg)
 
 Gestionar Autores
 
