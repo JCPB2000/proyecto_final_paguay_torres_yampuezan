@@ -13,37 +13,39 @@ adaptarse a futuras mejoras y necesidades específicas.
 ```
 proyecto_final_paguay_torres_yampuezan/
 ├── app/
-│   ├── controllers/       # Controladores de la aplicación
+│   ├── controllers/
 │   │   ├── AutorController.php
 │   │   ├── InicioController.php
 │   │   ├── LibroController.php
-│   ├── core/              # Router de la aplicación
+│   ├── core/
 │   │   ├── Router.php
-│   ├── models/            # Modelos de datos
+│   ├── models/
 │   │   ├── Autor.php
 │   │   ├── Libro.php
 ├── assets/
 │   ├── css/
-│   │   ├── style.css       # Estilos de la aplicación
+│   │   ├── style.css
 │   ├── js/
-│   │   ├── scripts.js      # Lógica en JavaScript
+│   │   ├── scripts.js
 ├── config/
-│   ├── database.php        # Configuración de la base de datos
+│   ├── database.php
 ├── public/
-│   ├── .htaccess           # Configuración de reescritura de URLs
-│   ├── index.php           # Punto de entrada de la aplicación
-│   ├── test.php            # Archivo de prueba
+│   ├── .htaccess
+│   ├── index.php
+│   ├── test.php
 ├── views/
-│   ├── index.php           # Vista principal
+│   ├── index.php
 │   ├── autores/
-│   │   ├── index.php       # Vista de autores
+│   │   ├── index.php
 │   ├── libros/
-│   │   ├── index.php       # Vista de libros
-│   │   ├── form.php        # Formulario de libros
+│   │   ├── index.php
+│   │   ├── form.php
 │   ├── layouts/
-│   │   ├── menu.php        # Menú de navegación
-├── DOCUMENTACION.md        # Documentación del proyecto
-├── README.md               # Introducción al proyecto
+│   │   ├── menu.php
+├── DOCUMENTACION.md
+├── README.md
+├── database.sql
+
 
 ```
 
