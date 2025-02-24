@@ -138,7 +138,7 @@ Gestionar Autores
 
 ![Proyecto](https://github.com/JCPB2000/proyecto_final_paguay_torres_yampuezan/blob/main/Image%202025-02-23%20at%209.35.12%20PM.jpeg)
 
-## Autores
+## Equipo de Desarrollo
 
 Julio Cesar Paguay Bonilla
 
