@@ -44,7 +44,6 @@ proyecto_final_paguay_torres_yampuezan/
 │   │   ├── menu.php
 ├── DOCUMENTACION.md
 ├── README.md
-├── database.sql
 
 
 ```
