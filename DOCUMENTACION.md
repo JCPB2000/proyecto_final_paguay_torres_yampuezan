@@ -81,7 +81,7 @@ mejorando la experiencia del usuario y optimizando el rendimiento del sistema.
 
 Agregar un nuevo libro
 
-
+  ![Proyecto]()
 ```
 document.getElementById("formLibro").addEventListener("submit", function(event) {
     event.preventDefault();
