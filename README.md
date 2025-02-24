@@ -47,38 +47,38 @@ La aplicación permite:
 
 ```
 proyecto_final_paguay_torres_yampuezan/
-├── app/                      # Lógica de la aplicación
-│   ├── controllers/          # Controladores del sistema
+├── app/
+│   ├── controllers/
 │   │   ├── AutorController.php
 │   │   ├── InicioController.php
 │   │   ├── LibroController.php
-│   ├── core/                 # Router de la aplicación
+│   ├── core/
 │   │   ├── Router.php
-│   ├── models/               # Modelos de datos
+│   ├── models/
 │   │   ├── Autor.php
 │   │   ├── Libro.php
-├── assets/                   # Recursos estáticos
-│   ├── css/                  # Archivos de estilo
+├── assets/
+│   ├── css/
 │   │   ├── style.css
-│   ├── js/                   # Scripts de la aplicación
+│   ├── js/
 │   │   ├── scripts.js
-├── config/                   # Configuración del sistema
-│   ├── database.php          # Conexión a la base de datos
-├── public/                   # Punto de acceso web
-│   ├── .htaccess             # Reescritura de URLs
-│   ├── index.php             # Punto de entrada principal
-│   ├── test.php              # Archivo de prueba
-├── views/                    # Vistas del sistema
-│   ├── index.php             # Página principal
-│   ├── autores/              # Vistas relacionadas con autores
+├── config/
+│   ├── database.php
+├── public/
+│   ├── .htaccess
+│   ├── index.php
+│   ├── test.php
+├── views/
+│   ├── index.php
+│   ├── autores/
 │   │   ├── index.php
-│   ├── libros/               # Vistas relacionadas con libros
+│   ├── libros/
 │   │   ├── index.php
 │   │   ├── form.php
-│   ├── layouts/              # Componentes reutilizables
-│   │   ├── menu.php          # Menú de navegación
-├── DOCUMENTACION.md          # Documentación detallada del proyecto
-├── README.md                 # Introducción y guía de instalación
+│   ├── layouts/
+│   │   ├── menu.php
+├── DOCUMENTACION.md
+├── README.md
 
 ```
 ## Crear una base de datos en MySQL:
@@ -130,7 +130,7 @@ Acceder a http://localhost/proyecto_final_paguay_torres_yampuezan/public/libros
 
 * Visualizar información detallada de cada libro registrado.
 
-![Proyecto](![Proyecto](https://github.com/JCPB2000/proyecto_final_paguay_torres_yampuezan/blob/main/Image%202025-02-23%20at%209.32.23%20PM.jpeg))
+![Proyecto](![Proyecto](https://github.com/JCPB2000/proyecto_final_paguay_torres_yampuezan/blob/main/Image%202025-02-23%20at%209.32.23%20PM.jpeg)
 
 Gestionar Autores
 
