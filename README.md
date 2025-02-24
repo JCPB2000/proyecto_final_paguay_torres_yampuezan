@@ -25,8 +25,6 @@ La aplicación permite:
 
 # Tecnologías Utilizadas
 
-* Tecnologías Utilizadas
-
 * Lenguaje Backend: PHP 8+
 
 * Base de Datos: MySQL
@@ -120,11 +118,9 @@ class Database {
 ```
 ## Uso del Sistema
 
-Uso del Sistema
-
 Gestionar Libros
 
-Acceder a http://localhost/proyecto_final_paguay_torres_yampuezan/public/libros
+* Acceder a http://localhost/proyecto_final_paguay_torres_yampuezan/public/libros
 
 * Agregar, editar o eliminar libros de la base de datos.
 
